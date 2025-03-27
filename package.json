@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.4.5",
-    "node-red": "^4.0.9",
-    "express": "^4.17.1"
+    "dotenv": "^16.4.7",
+    "express": "^4.17.1",
+    "node-red": "^4.0.9"
   }
 }
